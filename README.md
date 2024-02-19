@@ -1,9 +1,7 @@
-# bk225_shinkansen
+Enterprise Project
 
 
-<p align="center"><a href="https://www.pietnet.co/gail/"><img src="http://pietnet.co/gail/img/ideation.png" alt="TenderBullet"></a></p>
 
-[Website](https://www.pietnet.co/gail/)
 
 - Blockchain will be used end to end for the transactions by the stakeholders involved:
 Admin, Tender Creator, Bidder, Tender Manager, Bid Evaluation Committee, Chief Vigilance Officer/Auditor and Bank.  
@@ -14,15 +12,15 @@ Admin, Tender Creator, Bidder, Tender Manager, Bid Evaluation Committee, Chief V
 
 ## Blockchain-Implementation
 
-<p align="center"><a href="https://www.pietnet.co/gail/"><img src="http://pietnet.co/gail/img/implementation.png" alt="TenderBullet"></a></p>
+
 
 ## Components
 
-<p align="center"><a href="http://pietnet.co/gail/img/components.png"><img src="http://pietnet.co/gail/img/components.png" alt="TenderBullet"></a></p>
+
 
 
 ## Technical Diagram
 
-<p align="center"><a href="https://docs.tenderbullet.tk/_images/ArchitectureDiagram.png"><img src="https://docs.tenderbullet.tk/_images/ArchitectureDiagram.png" alt="TenderBullet"></a></p>
+
 
 
